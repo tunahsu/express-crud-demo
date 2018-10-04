@@ -1,0 +1,10 @@
+{
+    "students": [
+        {"id": 1, "name": "張一", "gender": 0, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
+        {"id": 2, "name": "張二", "gender": 1, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
+        {"id": 3, "name": "張三", "gender": 0, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
+        {"id": 4, "name": "張四", "gender": 1, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
+        {"id": 5, "name": "張五", "gender": 1, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
+        {"id": 6, "name": "張六", "gender": 0, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"}
+    ]
+}
