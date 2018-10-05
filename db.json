@@ -1,10 +1,1 @@
-{
-    "students": [
-        {"id": 1, "name": "張一", "gender": 0, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
-        {"id": 2, "name": "張二", "gender": 1, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
-        {"id": 3, "name": "張三", "gender": 0, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
-        {"id": 4, "name": "張四", "gender": 1, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
-        {"id": 5, "name": "張五", "gender": 1, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"},
-        {"id": 6, "name": "張六", "gender": 0, "age": 18, "hobbies": "吃飯、睡覺、打豆豆"}
-    ]
-}
+{"students":[{"name":"史上最強台版旭曜","gender":"0","age":"20","hobbies":"吃飯、睡覺、打豆豆","id":0},{"name":"也是可哦","gender":"1","age":"23","hobbies":"混水、摸魚、車鋼筆","id":1},{"name":"讚讚躺禾","gender":"0","age":"22","hobbies":"測試單日尻尻數量上限","id":2}]}
